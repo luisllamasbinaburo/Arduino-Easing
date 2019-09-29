@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map MyName
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+Easying	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+Init	KEYWORD2
+GetSetpoint	KEYWORD2
+SetSetpoint	KEYWORD2
+GetValue	KEYWORD2
+SetMillisInterval	KEYWORD2
+SetMicrosInterval	KEYWORD2
+SetMode	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
