@@ -1,5 +1,5 @@
 # Arduino Easing Library
-Arduino library that implement easing functions for smooth variable change. For example, for changing a motor speed smooth. 
+Arduino library that implement easing functions for smoothing variable changes. (For example, for changing a motor speed smoothly)
 
 Just create a new `Easing` instance, and use `=` operator to set the new SetPoint. Then, use `GetValue()` function to get the smooth value.
 
